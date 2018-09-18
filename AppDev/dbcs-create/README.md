@@ -20,11 +20,13 @@ This tutorial demonstrates how to:
 
 + Oracle Public Cloud Service account including Database and Storage Cloud Service
 
-+ You can choose to instantiate your DB and WLS on OCI-Classic, or on OCI "Base Metal" type of infrastructure.  For running on OCI "Bare Metal" you need to create a few artifacts on the level of the OCI Infrastructure before you can start the Database creation wizard:
++ You can choose to instantiate your DB and WLS on OCI-Classic, or on OCI "Bare Metal" type of infrastructure.  For running on OCI "Bare Metal" you need to create a few artifacts on the level of the OCI Infrastructure before you can start the Database creation wizard:
 
    + Set up a VCN
    + Create a Object Storage Bucket
    + Create an Auth token (Swift Password)
+   + In case you are running this lab on a new Cloud Account, you also might have to set up a PaaS Policy
+   
    + See [here for more detailed info](https://docs.cloud.oracle.com/iaas/Content/General/Reference/PaaSprereqs.htm)
 
 ### Steps ###
