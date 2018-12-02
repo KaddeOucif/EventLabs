@@ -79,6 +79,8 @@ Then, add a second value named **Savings** and this time add a synonym of **save
 ![](images/13_CreateValue2.png)
 
 Finally, add a third value named **Credit Card** and use **Amex, VISA** and **Card** as the synonyms.
+*Pro-tip: When you're adding multiple values as synonyms, hit the **Tab** button after each synonym for it to be highlited and entered. *
+![](images/Synonyms.png)
 
 When finished your entity definition should look like the image below.
 
