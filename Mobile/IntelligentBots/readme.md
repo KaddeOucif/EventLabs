@@ -82,11 +82,11 @@ Finally, add a third value named **Credit Card** and use **Amex, VISA** and **Ca
 
 *Pro-tip: When you're adding multiple values as synonyms, hit the **Tab** button when you're done with each entry. In this case you define **Amex** -> hit **Tab** -> start with the next synonym, in this case **VISA**.* 
 
-![](images/Synonyms.PNG)
+![](images/20.Synonyms.png)
 
 When finished your entity definition should look like the image below.
 
-![](images/13_FinishedEntities.png)
+![](images/14_FinishedEntities.png)
 
 Now you've got an intent and an entity it works on. You need to associate the balance intent and account type entity, and it's easy to do.
 
