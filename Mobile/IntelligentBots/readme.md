@@ -19,7 +19,7 @@ In the **Clone Bot** dialog, name the ChatBot **CloudTestDriveBot_xx**, where 'x
 
 You are taken to the home page for your bot. Here on the left you can see a list of icons you use to navigate to your **Intents, Entities, Flow, Components and Settings**. At this time, you have no intents.
 
-![](images/3_Menu.png)
+![](images/CTD_Menu.png)
 
 Click the second icon down **"Entities"** and notice it is pre-populated system entities. These are standard entities that can be used in your ChatBot without having to explicitly define.
 
