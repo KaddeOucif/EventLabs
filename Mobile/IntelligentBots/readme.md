@@ -19,7 +19,7 @@ In the **Clone Bot** dialog, name the ChatBot **CloudTestDriveBot_xx**, where 'x
 
 You are taken to the home page for your bot. Here on the left you can see a list of icons you use to navigate to your **Intents, Entities, Flow, Components and Settings**. At this time, you have no intents.
 
-*The segments highlited in green text is the ones we're going to focus on in this lab. **Keep in mind that the icons for the various segments such as Intents, Entities & Flow might look different in your given environment, but they still serve the same purpose. They're  positioned in the same order as well, no matter what environment you're assigned to use throughout the lab.** *
+The segments highlited in green text is the ones we're going to focus on in this lab. *Keep in mind that the icons for the various segments such as Intents, Entities & Flow might look different in your given environment, but they still serve the same purpose. They're  positioned in the same order as well, no matter what environment you're assigned to use throughout the lab.*
 
 ![](images/CTD_Menu.png)
 
